@@ -1,0 +1,12 @@
+.idea/
+datas/
+data/
+__pycache__/
+*.DS_Store
+.ipynb_checkpoints/
+summary/
+old_summary/
+model/
+old_model/
+output/
+*.icloud
